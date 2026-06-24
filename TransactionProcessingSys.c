@@ -3,7 +3,7 @@
 #include <string.h>
 #include <errno.h>
 
-#define PATH "C:\\Users\\Sepehr\\Documents\\DeitelCB\\C11\\"
+#define PATH "your_path"
 
 typedef struct {
     int account;
